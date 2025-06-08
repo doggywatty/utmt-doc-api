@@ -1,6 +1,6 @@
 # Types
 
-This page explains the most common UMT scripting types.
+This page explains the most common scripting types.
 
 ---
 
