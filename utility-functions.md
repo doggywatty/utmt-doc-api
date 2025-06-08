@@ -1,6 +1,6 @@
 # Utility & UI Functions
 
-UMT scripting provides built-in helpers for interacting with the user and the tool itself.
+UTMT scripting provides built-in helpers for interacting with the user and the tool itself.
 
 ## Dialogs
 
