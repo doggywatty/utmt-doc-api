@@ -31,7 +31,7 @@ ScriptMessage("Step 1 done.");
 
 ## Exceptions
 
-Most exceptions will be shown by UMT, but you can use `try/catch` for fine-grained control:
+Most exceptions will be shown by UTMT, but you can use `try/catch` for fine-grained control:
 
 ```csharp
 try {

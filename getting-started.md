@@ -21,7 +21,7 @@
 
 ```csharp
 EnsureDataLoaded();
-ScriptMessage("Hello, world! UMT scripting works!");
+ScriptMessage("Hello, world! UTMT scripting works!");
 ```
 
 ## Best Practices
