@@ -14,7 +14,7 @@
 ## Script Structure
 
 - **Top-level C# code** (no `Main` method or class required).
-- **Automatic references**: All UMT/UndertaleModLib types, plus .NET (`System`, `System.IO`, etc.)
+- **Automatic references**: All UTMT/UndertaleModLib types, plus .NET (`System`, `System.IO`, etc.)
 - **Global objects**: `Data`, `FilePath`, and UI helpers (`ScriptMessage`, etc.).
 
 ## Example: Hello World
