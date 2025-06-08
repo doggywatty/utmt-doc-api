@@ -1,7 +1,7 @@
 # Tips & Gotchas
 
 - **Always** use `EnsureDataLoaded();` at the start of your script.
-- Use `.Content` to get string values from UMT string objects (e.g., `room.Name.Content`).
+- Use `.Content` to get string values from UTMT string objects (e.g., `room.Name.Content`).
 - For code decompilation, use the recommended decompiler classes.
 - Placed objects in GM:S2+ are in instance layers, not `room.GameObjects`.
 - **Back up your project** before running scripts that change data!
