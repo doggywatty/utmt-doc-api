@@ -1,6 +1,6 @@
 # Overview
 
-UndertaleModTool (UMT) includes a robust, C#-based scripting system for automating resource export/import, batch-editing, and extending the tool’s functionality.
+UndertaleModTool (UTMT) includes a robust, C#-based scripting system for automating resource export/import, batch-editing, and extending the tool’s functionality.
 
 **Key Features:**
 - Full access to all loaded game data, including rooms, objects, sprites, sounds, code, and more.
