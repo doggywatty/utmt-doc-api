@@ -2,7 +2,7 @@
 
 ## Writing Your First Script
 
-1. **Open UMT** and load your game project.
+1. **Open UTMT** and load your game project.
 2. **Go to the Scripts panel.**
 3. **Create a new `.csx` script.**
 4. **Start every script with:**  
