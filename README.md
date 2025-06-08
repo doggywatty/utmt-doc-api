@@ -1,6 +1,6 @@
 # UndertaleModTool Scripting API Documentation
 
-Welcome to the UndertaleModTool (UMT) scripting API docs! Here you’ll find everything you need to get started automating, analyzing, and editing Undertale/GM games using C# scripts in UMT.
+Welcome to this fanmade UndertaleModTool (UTMT) scripting API docs!</br>Here you’ll find everything you need to get started automating, analyzing, and editing Undertale/GM games using C# scripts in UTMT.
 
 ## Table of Contents
 
